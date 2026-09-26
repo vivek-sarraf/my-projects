@@ -1,48 +1,17 @@
-#🌟 My Projects Collection
+🔢 Random Permutations Without Recursion
 
-Welcome to my GitHub!
-This repository contains a variety of projects created while learning Java and Python.
-Each project represents a step in my journey to become a better programmer through practice, creativity, and problem-solving.
-🧠 About This Repository
+My first Java project for generating all possible unique permutations of given digits without using recursion.
 
-This repository includes:
+The program:
 
-💻 Java projects — console applications, basic management systems, and logical programs.
+- Takes digits as input from the user
+- Calculates the total number of possible permutations
+- Randomly shuffles the digits
+- Generates unique permutations
+- Stores and displays each unique result
 
-🐍 Python projects — automation scripts, data-based tools, and small experiments.
+This project is part of my journey of learning Java, problem-solving, arrays, loops, and algorithmic thinking.
 
-⚙️ Mini utilities — programs built to explore real-world use cases and improve coding efficiency.
+🚀 Learning Java | Building Logic | Improving Every Day
 
-🚀 Goals
 
-Strengthen core programming skills in Java and Python
-
-Understand key concepts like OOP, file handling, and data structures
-
-Build practical and well-structured code
-
-Learn new technologies step by step
-
-🧩 Skills & Tools
-
-Languages: Java, Python
-
-Editor: Visual Studio Code
-
-Concepts: OOP, logic building, automation, small projects
-
-Version Control: Git & GitHub
-
-💡 Future Plans
-
-I’ll keep adding new projects as I learn more about:
-
-GUI development
-
-APIs and databases
-
-Artificial Intelligence & Machine Learning
-
-📬 Contact
-
-If you’d like to share feedback or collaborate, feel free to connect through GitHub Discussions or Issues.
